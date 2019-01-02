@@ -1,4 +1,4 @@
-import { User } from "../shared/foo";
+import { User } from "./shared/foo";
 
 const users: User[] = [
   {
