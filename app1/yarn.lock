@@ -3,9 +3,9 @@
 
 
 fp-ts@^1.0.0:
-  version "1.12.1"
-  resolved "https://registry.yarnpkg.com/fp-ts/-/fp-ts-1.12.1.tgz#c3d032b7be009046a935991aaa21efaa14bf8d20"
-  integrity sha512-rNFziqhEwsAAXUrC6KkLwZwsiqswQFQ+7QeS3noSwTAOo6dPSJJ1S9yoHZ9ToRf+fpro9gbixWi9hkDHpb/9bg==
+  version "1.12.2"
+  resolved "https://registry.yarnpkg.com/fp-ts/-/fp-ts-1.12.2.tgz#4297ceb989a81d05df10552fb969a73104293a1f"
+  integrity sha512-h5+V5g4o4CiOoAdUxx+g+/n3n9MYw8SgjBygEDqyuyq3gmGSsUKvHtSvHstZ2DVVBadP+XqGiQ6V/qYyMK1iKA==
 
 io-ts@^1.5.1:
   version "1.5.1"
